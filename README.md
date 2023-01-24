@@ -4,11 +4,8 @@ An education company named X Education sells online courses to industry professi
 
 
 
+Steps Followed:
 
-
-
-
-Steps Followed
 o	Importing Data
 o	Inspecting the Dataframe
 o	Data Preparation
